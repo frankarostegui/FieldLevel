@@ -7,6 +7,7 @@ namespace FieldLevel.Models
 {
     public class UserPost
     {
+        // The user post model
         public string UserId { get; set; }
         public string PostId { get; set; }
         public string Title { get; set; }
